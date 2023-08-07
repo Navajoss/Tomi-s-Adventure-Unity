@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/OtherScenes/OtherScenes/GardenScene/Garden.unity
+    guid: 6793af77c703d8040ac63eda6c0a2908
+  - enabled: 1
+    path: "Assets/Scene/Cinem\xE1ticas/Inicio.unity"
+    guid: 0965021afc98adf48b410ebdaa56f3ce
+  - enabled: 1
+    path: Assets/Scene/In.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: "Assets/Scene/Cinem\xE1ticas/UnlockYeti.unity"
+    guid: 17bd365167a0a2f43afd8964c21bc649
+  - enabled: 1
+    path: Assets/Scene/Boss.unity
+    guid: 592e424983cab93499688e2d39a25a27
+  - enabled: 1
+    path: "Assets/Scene/Cinem\xE1ticas/YetiDeath.unity"
+    guid: 62f09a4509bb24045a5e180c3540888f
+  - enabled: 1
+    path: Assets/Scene/OtherScenes/OtherScenes/Tubes/Tubes.unity
+    guid: c8f7e1691d871334da2f523fcab673b9
+  - enabled: 1
+    path: "Assets/Scene/Cinem\xE1ticas/Finale.unity"
+    guid: 7cfdd4e748edf384f86c846842fd6f7d
+  m_configObjects: {}
